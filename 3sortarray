@@ -1,3 +1,4 @@
+
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -27,6 +28,7 @@ void Sort(vector<int> &v){
 
 
 
+
 int main(){
 	vector<int>v={9,0,1,4,90,67,2,120};
 	Sort(v);
@@ -35,4 +37,5 @@ int main(){
 		cout<<v[i]<<" ";
 	}
 }
+
 
